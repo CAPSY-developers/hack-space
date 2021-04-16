@@ -1,0 +1,17 @@
+{
+  "name": "login_signup",
+  "version": "1.0.0",
+  "description": "Starup for the project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Somya",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7"
+  }
+}
